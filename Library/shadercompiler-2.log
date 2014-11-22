@@ -1,0 +1,89 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1333547008
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=9 type=0 insize=810 outsize=829 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1118 outsize=1149 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1118 outsize=7 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=749 outsize=659 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1984 outsize=3868 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1984 outsize=6 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1053 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2408 outsize=3664 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2001 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2152 outsize=3720 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=2152 outsize=7 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1541 outsize=769 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1541 outsize=7 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=715 outsize=614 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1106 outsize=1135 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1445 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2323 outsize=1992 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=864 outsize=840 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1960 outsize=3217 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=1960 outsize=6 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1972 outsize=2216 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1972 outsize=7 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1099 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=5 type=0 insize=1551 outsize=1712 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1551 outsize=7 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=788 outsize=809 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1042 outsize=802 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=1031 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=998 outsize=694 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=914 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=2053 outsize=3728 kw=LIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=5 type=1 insize=2053 outsize=6 kw=LIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=1475 outsize=1054 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3284 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3308 outsize=1025 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5385 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5385 outsize=1394 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=5384 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=5383 outsize=1681 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3981 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=0 insize=3999 outsize=1205 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3999 outsize=7 kw= ok=1
+Cmd: compileSnippet
+  api=9 type=1 insize=3986 outsize=7 kw= ok=1

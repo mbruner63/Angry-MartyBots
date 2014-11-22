@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Modules/TriggerOnMouseOrJoystick.js">
+    <Files>
+      <File FileName="Assets/Scripts/Movement/PlayerMoveController.js" Line="243" Column="8" />
+      <File FileName="Assets/Scripts/Movement/playerController.cs" Line="182" Column="29" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Movement/FreeMovementMotor.js" Line="24" Column="3" />
+      <File FileName="Assets/Scripts/Modules/TriggerOnMouseOrJoystick.js" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Weapons/AutoFire.js" Line="70" Column="3" />
+      <File FileName="Assets/Scripts/Fx/ReflectionFx.cs" Line="54" Column="9" />
+      <File FileName="Assets/Plugins/OuyaSDK.cs" Line="457" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
